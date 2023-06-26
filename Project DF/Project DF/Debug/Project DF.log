@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Денис\source\repos\Project DF\Project DF\Source.cpp(20,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Денис\source\repos\Project DF\Project DF\Source.cpp(21,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Денис\source\repos\Project DF\Project DF\Source.cpp(22,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Денис\source\repos\Project DF\Project DF\Source.cpp(23,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project DF.vcxproj -> C:\Users\Денис\source\repos\Project DF\Debug\Project DF.exe
