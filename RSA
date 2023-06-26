@@ -11,8 +11,8 @@ int gcd(int a, int b) {
 
 int main() {
 	setlocale(LC_ALL, "RU");
-	int p = 3;
-	int q = 5;
+	int p = 19;
+	int q = 3;
 	int n = p * q;
 	int phi = (p - 1) * (q - 1);
 	int e, d;
